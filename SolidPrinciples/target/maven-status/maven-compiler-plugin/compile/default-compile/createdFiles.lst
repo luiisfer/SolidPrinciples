@@ -1,0 +1,13 @@
+InterfaceSegregation\Pares.class
+OpenClosed\CSVReport.class
+OpenClosed\XMLReport.class
+InterfaceSegregation\IOperacionesIntermedias.class
+InterfaceSegregation\IOperacionesBasicas.class
+OpenClosed\ReportingStrategy.class
+DependencyInversion\Carro.class
+OpenClosed\ReportMain.class
+DependencyInversion\Toyota.class
+OpenClosed\Reports.class
+SingleResponsibility\Cliente.class
+DependencyInversion\DependencyMain.class
+DependencyInversion\Nissan.class
